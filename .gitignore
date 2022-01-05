@@ -1,0 +1,15 @@
+*.jpg
+*.png
+*.svg
+*.MOV
+*.mp4
+*.mov
+*.webm
+*.avi
+suit_predictor*
+rank_predictor*
+models*
+log*
+Untitled*
+front_shuffle*
+rank_tl.ipynb
